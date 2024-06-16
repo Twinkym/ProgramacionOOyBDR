@@ -74,7 +74,6 @@ h1.p {
 }
 ```
 ## Capturas Del Proyecto
-![imagen_2024-06-16_224424449](https://github.com/Twinkym/ProgramacionOOyBDR/assets/73356704/e300756c-5af1-43d1-8259-69a48c8ddb0c)
 
 ![Primera_captura_tarea_funcionandoa_falta_de_animaciones](https://github.com/Twinkym/ProgramacionOOyBDR/assets/73356704/0413cdbc-108f-486a-b710-8dcc77e2a80e).
 
