@@ -1,6 +1,14 @@
 @import '_variables';
 @import '../../node_modules/bootstrap/scss/bootstrap.scss';
 
+// mixins 
+@mixin flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+// Base styles
 
 body{
     font-size: 1em;
@@ -9,7 +17,66 @@ body{
     font-family: 'Inter', Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1.p{
+// Header styles
+header {
+    background-color: $primary-color;
+    color: $basic-color;
+    padding: 1em 0;
     text-align: center;
-    color: $text-color;
+
+
+    h1 {
+        margin: 0;
+        font-size: 2em;
+        letter-spacing: 2px;
+    }
+
+
+    h1.p{
+        text-align: center;
+        color: $text-color;
+    }
+
+    .centro{
+        margin: 0 auto;
+    }
+
+}
+
+.main-content {
+    padding: 2em;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    .section {
+        margin-bottom: 2em;
+        background-color: $basic-color;
+        padding: 1em;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+
+        h2{
+            margin-top: 0;
+        }
+        ul{
+            list-style: none;
+            padding: 0;
+
+            li{
+                background-color: $secondary-color;
+                color: $basic-color;
+                margin-bottom: .5em;
+                padding: .5em;
+                border-radius: 3px;
+            }
+        }
+    }
+
+    // Footer styles
+    .footer {
+        @include flex-center;
+        background-color: $primary-color;
+        color: $basic-color;
+        height: 150px;
+    }
 }
