@@ -1,0 +1,19 @@
+{
+  "name": "programacionooybdr",
+  "version": "1.0.0",
+  "description": "Ejercicios del Curso de GRI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "sass assets/css/main.scss assets/css/main.css",
+    "watch-css": "sass --watch assets/css/main.scss assets/css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "gsap": "^3.12.5",
+    "sass": "^1.77.5"
+  }
+}

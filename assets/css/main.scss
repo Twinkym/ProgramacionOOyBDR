@@ -1,0 +1,15 @@
+@import '_variables';
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+
+body{
+    font-size: 1em;
+    width: 90vw;
+    margin: 0 auto;
+    font-family: 'Inter', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1.p{
+    text-align: center;
+    color: $text-color;
+}
