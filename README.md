@@ -72,6 +72,8 @@ h1.p {
   text-align: center;
   color: $text-color;
 }
-![Primera_captura_tarea_funcionandoa_falta_de_animaciones](https://github.com/Twinkym/ProgramacionOOyBDR/assets/73356704/0413cdbc-108f-486a-b710-8dcc77e2a80e)
+## Capturas Del Proyecto![imagen_2024-06-16_224424449](https://github.com/Twinkym/ProgramacionOOyBDR/assets/73356704/e300756c-5af1-43d1-8259-69a48c8ddb0c)
 
-![Added_links](https://github.com/Twinkym/ProgramacionOOyBDR/assets/73356704/b80175a1-d89b-49aa-8e99-1f0596bdc0f0)
+![Primera_captura_tarea_funcionandoa_falta_de_animaciones](https://github.com/Twinkym/ProgramacionOOyBDR/assets/73356704/0413cdbc-108f-486a-b710-8dcc77e2a80e).
+
+![Added_links](https://github.com/Twinkym/ProgramacionOOyBDR/assets/73356704/b80175a1-d89b-49aa-8e99-1f0596bdc0f0).
